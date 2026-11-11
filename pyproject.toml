@@ -13,5 +13,5 @@ dependencies = [
     "werkzeug>=3.1.3"]
 
 [project.urls]
-Homepage = "https://github.com/Profik325/PlannerManager"
-Repository = "https://github.com/Profik325/PlannerManager.git"
+Homepage = "https://github.com/Roawn/PlannerManager"
+Repository = "https://github.com/Roawn/PlannerManager.git"
